@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/khenshaa/ppl-pmb" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/khenshaa/ppl2_pmb" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Semester5/MobileProgramming" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Semester7/PPL" />
   </component>
 </application>
